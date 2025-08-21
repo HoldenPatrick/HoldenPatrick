@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @HoldenPatrick
-- 👀 I’m interested in sports, nature, and learning new skills
-- 🌱 I’m currently studying to for my CompTIA Security+ certicicate
+-    
+-    Fascinated with professional development, learning and implementing new skills
+-    CompTIA: 5x Certs, including Stackable: A+, Network+, Security+, CIOS, CSIS, Next up: CYSA+
+-    Currently learning Python, next Bash (Scripting)
+-    Interested in learning IaC, JavaScript/JSON, and PHP
+-    Practicing more with Virtualization and Cloud Computing
+-    
+-    Avid Boston Sports Fan, especially the Bruins!
+-    When not behind a keyboard, I can most likely be found: swinging a golf club, reading on the beach, or working out
+-    
 - 📫 How to reach me: Pdholden17@gmail.com
 
 <!---
